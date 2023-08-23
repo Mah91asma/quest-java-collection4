@@ -16,12 +16,12 @@ public class Thanos {
         Flower violet = new Flower("Violet");
         Flower rose = new Flower("Rose");
 
-        // TODO 1 : Create a TreeMap where :
-        // Hulk, Thor and Scarlet Witch have a Rose
-        // Vision has a Tulip
-        // Captain America has a Lily
+        // TODO 1 : Create a TreeMap where ://
+        // Hulk, Thor and Scarlet Witch have a Rose // 
+        // Vision has a Tulip //
+        // Captain America has a Lily // 
         // Doctor Strange and Black Widow have a Violet
-
+        // almonia
         // TODO 2 : Print if `begonia` is contained in the TreeMap
 
         // TODO 3 : For each hero, alphabetically, print the corresponding flower
